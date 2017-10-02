@@ -8,7 +8,6 @@ Luciano Frez
 120,671
 
 **¿Qué tipo de plataforma de secuenciamiento fue usada para producir estos datos?**
-
 ilumina
 
 **¿Cuántas secuencias pasaron el control de calidad? ¿A qué crees que se refiere esto?**
@@ -17,6 +16,7 @@ Of the sequences tested, 0 sequences (0.00%) failed to pass the QC pipeline. Of 
 
 **¿Cuántos otros metagenomas están disponibles para el bioma “marine habitat”?**
 
+87
 
 **¿Cuántas reads fueron asignadas a eucariontes según MG-RAST?**
 Eukaryota - 20,128 (14.91%)
@@ -25,13 +25,17 @@ Eukaryota - 20,128 (14.91%)
 Cyanobacteria - 39,919 (29.56%)
 
 **¿A cuántas secuencias se les asignó una función de acuerdo a la base de datos KEGG con un e-value entre -10 y -20?**
-
+7960
 
 **¿Por qué hay tan pocas secuencias con funciones asignadas según SwissProt?**
-
+Por que es una base de datos que es revisada manuelmente, por eso es que tiene pocas secuencias
 
 # **Parte II:** Análisis de metagenomas
 
 **¿Cuántas secuencias mapearon en contra de Proteobacteria?** *(Usa la opción Redraw para usar reads en vez de proporciones (raw))* 
 
 **¿Cuántas secuencias de Salmonella ( Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae) fueron identificadas?**
+31863
+15012
+1687
+1687
