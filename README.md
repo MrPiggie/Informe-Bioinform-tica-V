@@ -1,7 +1,7 @@
 # Informe-Bioinform-tica-V
 Luciano Frez
 
-#**Parte I:** Plataforma MG-RAST y exploración de metagenomas
+##**Parte I:** Plataforma MG-RAST y exploración de metagenomas
 
 ¿Cuántas secuencias fueron subidas? 
 
