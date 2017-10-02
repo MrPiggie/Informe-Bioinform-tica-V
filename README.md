@@ -1,7 +1,8 @@
 # Informe-Bioinform-tica-V
 Luciano Frez
 
-# **Parte I:** Plataforma MG-RAST y exploración de metagenomas
+# **Parte I:**
+Plataforma MG-RAST y exploración de metagenomas
 
 ¿Cuántas secuencias fueron subidas? 
 
@@ -19,7 +20,8 @@ Luciano Frez
 
 ¿Por qué hay tan pocas secuencias con funciones asignadas según SwissProt?
 
-# **Parte II:** Análisis de metagenomas
+# **Parte II:**
+Análisis de metagenomas
 
 ¿Cuántas secuencias mapearon en contra de Proteobacteria? (Usa la opción Redraw para usar reads en vez de proporciones (raw)) 
 
