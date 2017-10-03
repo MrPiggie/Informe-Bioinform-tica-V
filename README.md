@@ -5,29 +5,33 @@ Luciano Frez
 
 **¿Cuántas secuencias fueron subidas?**
 
-120,671
+Fueron subidas 120,671 secuencias.
 
 **¿Qué tipo de plataforma de secuenciamiento fue usada para producir estos datos?**
-ilumina
+Se utilizó la plataforma ´´Ilumina´´, la cual tiene como finalidad: Impulsar la innovación, Encontrar respuestas, Generar una diferencia ahora y Potenciar un futuro saludable.
 
 **¿Cuántas secuencias pasaron el control de calidad? ¿A qué crees que se refiere esto?**
 
-Of the sequences tested, 0 sequences (0.00%) failed to pass the QC pipeline. Of those, dereplication identified 0 sequences as artificial duplicate reads. Of the sequences that passed QC, 9,964 sequences (8%) contain ribosomal RNA genes, 80,525 sequences (66.73%) contain predicted proteins with known functions, and 30,182 sequences (25.01%) contain predicted proteins with unknown function.
+Todas las secuencias ensayadas pasaron el control de calidad, de las cuales: 9,964 secuencias (8%) contienen ribosomal RNA genes, 80,525 secuencias (66,73%) contienen proteínas predichas con funciones conocidas, y 30,182 secuencias (25,01%) contienen proteínas predichas con funciónes desconocidas. 
+
+Esto se refiere 
 
 **¿Cuántos otros metagenomas están disponibles para el bioma “marine habitat”?**
 
-87
+Hay 87 metagenomas disponibles para el bioma ''marine habitat''.
 
 **¿Cuántas reads fueron asignadas a eucariontes según MG-RAST?**
-Eukaryota - 20,128 (14.91%)
+Se asiganron un total de 20,128 para Eukaryota, lo cual representa al 14.91% de toda la gráfica correspondiente a los dominios.
 
 **¿Cuál es el filo (Phylum) más abundante en la muestra?**
-Cyanobacteria - 39,919 (29.56%)
+El filo(Phylum) más abundante es el de la Cyanobacteria - 39,919, representando al 29.56% de toda esta gráfica.
 
 **¿A cuántas secuencias se les asignó una función de acuerdo a la base de datos KEGG con un e-value entre -10 y -20?**
-7960
+
+A 7960 secuencias se les asignó una función de acuerdo a la base de datos KEGG con un e-value entre -10 y -20.
 
 **¿Por qué hay tan pocas secuencias con funciones asignadas según SwissProt?**
+
 Por que es una base de datos que es revisada manuelmente, por eso es que tiene pocas secuencias
 
 # **Parte II:** Análisis de metagenomas
